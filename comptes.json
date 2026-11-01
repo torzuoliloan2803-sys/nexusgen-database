@@ -1,17 +1,5 @@
 [
     {
-        "email": "demo002@example.com",
-        "password": "DEMO-ONLY-002",
-        "skins": 191,
-        "pioches": 1,
-        "vbucks": 200,
-        "skin_rare": [
-            "Recon Expert",
-            "Skull Trooper",
-            "Aura"
-        ]
-    },
-    {
         "email": "demo003@example.com",
         "password": "DEMO-ONLY-003",
         "skins": 1,
