@@ -1,21 +1,5 @@
 [
     {
-        "email": "demo001@example.com",
-        "password": "DEMO-ONLY-001",
-        "skins": 194,
-        "pioches": 0,
-        "vbucks": 1700,
-        "skin_rare": [
-            "Sparkle Specialist",
-            "Raptor",
-            "Prodigy",
-            "Blue Team Leader",
-            "The Reaper",
-            "Carbon Commando",
-            "Blue Striker"
-        ]
-    },
-    {
         "email": "demo002@example.com",
         "password": "DEMO-ONLY-002",
         "skins": 191,
