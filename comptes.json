@@ -1,37 +1,5 @@
 [
     {
-        "email": "demo011@example.com",
-        "password": "DEMO-ONLY-011",
-        "skins": 1,
-        "pioches": 0,
-        "vbucks": 0,
-        "skin_rare": []
-    },
-    {
-        "email": "demo012@example.com",
-        "password": "DEMO-ONLY-012",
-        "skins": 10,
-        "pioches": 0,
-        "vbucks": 350,
-        "skin_rare": []
-    },
-    {
-        "email": "demo013@example.com",
-        "password": "DEMO-ONLY-013",
-        "skins": 1,
-        "pioches": 0,
-        "vbucks": 0,
-        "skin_rare": []
-    },
-    {
-        "email": "demo014@example.com",
-        "password": "DEMO-ONLY-014",
-        "skins": 1,
-        "pioches": 0,
-        "vbucks": 100,
-        "skin_rare": []
-    },
-    {
         "email": "demo015@example.com",
         "password": "DEMO-ONLY-015",
         "skins": 1,
