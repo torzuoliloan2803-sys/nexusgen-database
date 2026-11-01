@@ -1,0 +1,799 @@
+[
+    {
+        "email": "demo001@example.com",
+        "password": "DEMO-ONLY-001",
+        "skins": 194,
+        "pioches": 0,
+        "vbucks": 1700,
+        "skin_rare": [
+            "Sparkle Specialist",
+            "Raptor",
+            "Prodigy",
+            "Blue Team Leader",
+            "The Reaper",
+            "Carbon Commando",
+            "Blue Striker"
+        ]
+    },
+    {
+        "email": "demo002@example.com",
+        "password": "DEMO-ONLY-002",
+        "skins": 191,
+        "pioches": 1,
+        "vbucks": 200,
+        "skin_rare": [
+            "Recon Expert",
+            "Skull Trooper",
+            "Aura"
+        ]
+    },
+    {
+        "email": "demo003@example.com",
+        "password": "DEMO-ONLY-003",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo004@example.com",
+        "password": "DEMO-ONLY-004",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo005@example.com",
+        "password": "DEMO-ONLY-005",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo006@example.com",
+        "password": "DEMO-ONLY-006",
+        "skins": 6,
+        "pioches": 0,
+        "vbucks": 150,
+        "skin_rare": []
+    },
+    {
+        "email": "demo007@example.com",
+        "password": "DEMO-ONLY-007",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo008@example.com",
+        "password": "DEMO-ONLY-008",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo009@example.com",
+        "password": "DEMO-ONLY-009",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo010@example.com",
+        "password": "DEMO-ONLY-010",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo011@example.com",
+        "password": "DEMO-ONLY-011",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo012@example.com",
+        "password": "DEMO-ONLY-012",
+        "skins": 10,
+        "pioches": 0,
+        "vbucks": 350,
+        "skin_rare": []
+    },
+    {
+        "email": "demo013@example.com",
+        "password": "DEMO-ONLY-013",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo014@example.com",
+        "password": "DEMO-ONLY-014",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 100,
+        "skin_rare": []
+    },
+    {
+        "email": "demo015@example.com",
+        "password": "DEMO-ONLY-015",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo016@example.com",
+        "password": "DEMO-ONLY-016",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo017@example.com",
+        "password": "DEMO-ONLY-017",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo018@example.com",
+        "password": "DEMO-ONLY-018",
+        "skins": 5,
+        "pioches": 0,
+        "vbucks": 200,
+        "skin_rare": []
+    },
+    {
+        "email": "demo019@example.com",
+        "password": "DEMO-ONLY-019",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo020@example.com",
+        "password": "DEMO-ONLY-020",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo021@example.com",
+        "password": "DEMO-ONLY-021",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo022@example.com",
+        "password": "DEMO-ONLY-022",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo023@example.com",
+        "password": "DEMO-ONLY-023",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 200,
+        "skin_rare": []
+    },
+    {
+        "email": "demo024@example.com",
+        "password": "DEMO-ONLY-024",
+        "skins": 6,
+        "pioches": 0,
+        "vbucks": 200,
+        "skin_rare": [
+            "Aura"
+        ]
+    },
+    {
+        "email": "demo025@example.com",
+        "password": "DEMO-ONLY-025",
+        "skins": 0,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo026@example.com",
+        "password": "DEMO-ONLY-026",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo027@example.com",
+        "password": "DEMO-ONLY-027",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 100,
+        "skin_rare": []
+    },
+    {
+        "email": "demo028@example.com",
+        "password": "DEMO-ONLY-028",
+        "skins": 3,
+        "pioches": 0,
+        "vbucks": 1650,
+        "skin_rare": [
+            "Rose Team Leader",
+            "Warpaint"
+        ]
+    },
+    {
+        "email": "demo029@example.com",
+        "password": "DEMO-ONLY-029",
+        "skins": 4,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo030@example.com",
+        "password": "DEMO-ONLY-030",
+        "skins": 46,
+        "pioches": 0,
+        "vbucks": 600,
+        "skin_rare": []
+    },
+    {
+        "email": "demo031@example.com",
+        "password": "DEMO-ONLY-031",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 100,
+        "skin_rare": []
+    },
+    {
+        "email": "demo032@example.com",
+        "password": "DEMO-ONLY-032",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo033@example.com",
+        "password": "DEMO-ONLY-033",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo034@example.com",
+        "password": "DEMO-ONLY-034",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo035@example.com",
+        "password": "DEMO-ONLY-035",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo036@example.com",
+        "password": "DEMO-ONLY-036",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo037@example.com",
+        "password": "DEMO-ONLY-037",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo038@example.com",
+        "password": "DEMO-ONLY-038",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo039@example.com",
+        "password": "DEMO-ONLY-039",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo040@example.com",
+        "password": "DEMO-ONLY-040",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo041@example.com",
+        "password": "DEMO-ONLY-041",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo042@example.com",
+        "password": "DEMO-ONLY-042",
+        "skins": 12,
+        "pioches": 0,
+        "vbucks": 300,
+        "skin_rare": []
+    },
+    {
+        "email": "demo043@example.com",
+        "password": "DEMO-ONLY-043",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo044@example.com",
+        "password": "DEMO-ONLY-044",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo045@example.com",
+        "password": "DEMO-ONLY-045",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo046@example.com",
+        "password": "DEMO-ONLY-046",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo047@example.com",
+        "password": "DEMO-ONLY-047",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo048@example.com",
+        "password": "DEMO-ONLY-048",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo049@example.com",
+        "password": "DEMO-ONLY-049",
+        "skins": 2,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo050@example.com",
+        "password": "DEMO-ONLY-050",
+        "skins": 3,
+        "pioches": 0,
+        "vbucks": 400,
+        "skin_rare": []
+    },
+    {
+        "email": "demo051@example.com",
+        "password": "DEMO-ONLY-051",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo052@example.com",
+        "password": "DEMO-ONLY-052",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 100,
+        "skin_rare": []
+    },
+    {
+        "email": "demo053@example.com",
+        "password": "DEMO-ONLY-053",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 100,
+        "skin_rare": []
+    },
+    {
+        "email": "demo054@example.com",
+        "password": "DEMO-ONLY-054",
+        "skins": 49,
+        "pioches": 0,
+        "vbucks": 1000,
+        "skin_rare": [
+            "Blue Team Leader",
+            "Carbon Commando"
+        ]
+    },
+    {
+        "email": "demo055@example.com",
+        "password": "DEMO-ONLY-055",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo056@example.com",
+        "password": "DEMO-ONLY-056",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo057@example.com",
+        "password": "DEMO-ONLY-057",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo058@example.com",
+        "password": "DEMO-ONLY-058",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 100,
+        "skin_rare": []
+    },
+    {
+        "email": "demo059@example.com",
+        "password": "DEMO-ONLY-059",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo060@example.com",
+        "password": "DEMO-ONLY-060",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo061@example.com",
+        "password": "DEMO-ONLY-061",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo062@example.com",
+        "password": "DEMO-ONLY-062",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo063@example.com",
+        "password": "DEMO-ONLY-063",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo064@example.com",
+        "password": "DEMO-ONLY-064",
+        "skins": 20,
+        "pioches": 0,
+        "vbucks": 200,
+        "skin_rare": []
+    },
+    {
+        "email": "demo065@example.com",
+        "password": "DEMO-ONLY-065",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo066@example.com",
+        "password": "DEMO-ONLY-066",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo067@example.com",
+        "password": "DEMO-ONLY-067",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo068@example.com",
+        "password": "DEMO-ONLY-068",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo069@example.com",
+        "password": "DEMO-ONLY-069",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo070@example.com",
+        "password": "DEMO-ONLY-070",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 100,
+        "skin_rare": []
+    },
+    {
+        "email": "demo071@example.com",
+        "password": "DEMO-ONLY-071",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 400,
+        "skin_rare": []
+    },
+    {
+        "email": "demo072@example.com",
+        "password": "DEMO-ONLY-072",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo073@example.com",
+        "password": "DEMO-ONLY-073",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo074@example.com",
+        "password": "DEMO-ONLY-074",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo075@example.com",
+        "password": "DEMO-ONLY-075",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo076@example.com",
+        "password": "DEMO-ONLY-076",
+        "skins": 110,
+        "pioches": 1,
+        "vbucks": 430,
+        "skin_rare": [
+            "Skull Trooper",
+            "Warpaint",
+            "Rose Team Leader",
+            "Fishstick",
+            "Blue Striker",
+            "Red Knight",
+            "Aura"
+        ]
+    },
+    {
+        "email": "demo077@example.com",
+        "password": "DEMO-ONLY-077",
+        "skins": 8,
+        "pioches": 0,
+        "vbucks": 900,
+        "skin_rare": []
+    },
+    {
+        "email": "demo078@example.com",
+        "password": "DEMO-ONLY-078",
+        "skins": 2,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo079@example.com",
+        "password": "DEMO-ONLY-079",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo080@example.com",
+        "password": "DEMO-ONLY-080",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo081@example.com",
+        "password": "DEMO-ONLY-081",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo082@example.com",
+        "password": "DEMO-ONLY-082",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 100,
+        "skin_rare": []
+    },
+    {
+        "email": "demo083@example.com",
+        "password": "DEMO-ONLY-083",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 100,
+        "skin_rare": []
+    },
+    {
+        "email": "demo084@example.com",
+        "password": "DEMO-ONLY-084",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo085@example.com",
+        "password": "DEMO-ONLY-085",
+        "skins": 16,
+        "pioches": 0,
+        "vbucks": 600,
+        "skin_rare": [
+            "Rogue Agent",
+            "Trailblazer"
+        ]
+    },
+    {
+        "email": "demo086@example.com",
+        "password": "DEMO-ONLY-086",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo087@example.com",
+        "password": "DEMO-ONLY-087",
+        "skins": 3,
+        "pioches": 0,
+        "vbucks": 100,
+        "skin_rare": [
+            "Prodigy"
+        ]
+    },
+    {
+        "email": "demo088@example.com",
+        "password": "DEMO-ONLY-088",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo089@example.com",
+        "password": "DEMO-ONLY-089",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo090@example.com",
+        "password": "DEMO-ONLY-090",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo091@example.com",
+        "password": "DEMO-ONLY-091",
+        "skins": 2,
+        "pioches": 0,
+        "vbucks": 100,
+        "skin_rare": []
+    },
+    {
+        "email": "demo092@example.com",
+        "password": "DEMO-ONLY-092",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo093@example.com",
+        "password": "DEMO-ONLY-093",
+        "skins": 1,
+        "pioches": 0,
+        "vbucks": 0,
+        "skin_rare": []
+    },
+    {
+        "email": "demo094@example.com",
+        "password": "DEMO-ONLY-094",
+        "skins": 4,
+        "pioches": 0,
+        "vbucks": 100,
+        "skin_rare": []
+    },
+    {
+        "email": "demo095@example.com",
+        "password": "DEMO-ONLY-095",
+        "skins": 6,
+        "pioches": 0,
+        "vbucks": 100,
+        "skin_rare": [
+            "Warpaint",
+            "Blue Team Leader",
+            "Rose Team Leader"
+        ]
+    }
+]
