@@ -1,13 +1,5 @@
 [
     {
-        "email": "demo003@example.com",
-        "password": "DEMO-ONLY-003",
-        "skins": 1,
-        "pioches": 0,
-        "vbucks": 0,
-        "skin_rare": []
-    },
-    {
         "email": "demo004@example.com",
         "password": "DEMO-ONLY-004",
         "skins": 1,
